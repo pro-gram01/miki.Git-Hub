@@ -1,0 +1,50 @@
+h1 {
+    font-size: 50px;
+}
+
+
+#RAGEBLUE {
+    
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    width: 50vw;
+}
+
+.HARE {
+
+    font-size: 20px;
+    position: relative;
+    bottom: 650px;
+    left: 650px;
+    width: 50vw;
+
+}
+
+.nikoand {
+
+    font-size: 20px;
+    position: relative;
+    bottom: 650px;
+    width: 50vw;
+
+}
+
+.lowrys {
+
+    font-size: 20px;
+    position: relative;
+    bottom: 1405px;
+    left: 750px;
+    width: 50vw;
+
+}
+
+/*ボタン*/
+#baz {
+
+   font-size: 20px;  
+   color:black;
+   width: 100px;
+   height: 50px;
+}
